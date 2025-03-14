@@ -12,7 +12,12 @@ This project focuses on end-to-end analysis to quantify and visualize sales for 
 * Allows users to explore data by region, product, timeframe, and customer.
 
 ## Executive Summery 
-This analysis consolidates data from three key sources: order records detailing sales, buyers, and purchase locations; product details of the top five exported parts; and discount data per sale. Covering 2022 and 2023, the study reveals a 1% year-over-year (YoY) decline in profit and a 3% drop in sales. The sharpest decline is seen in engine combustion system components, potentially reflecting a shift toward electric vehicles or the impact of rising fuel costs following the Russia-Ukraine war, discouraging investment in high-performance engine parts. Additionally, sales peak during spring and fall, suggesting seasonal demand patterns that may align with vehicle maintenance cycles or industry trends.
+This analysis consolidates data from three key sources: 
+* order records detailing sales, buyers, and purchase locations
+* product details of the top five exported parts
+* discount data per sale. Covering 2022 and 2023
+  
+The study reveals a decline in sales and profits. The sharpest decline is seen in engine combustion system components, potentially reflecting a shift toward electric vehicles or the impact of rising fuel costs following the Russia-Ukraine war, discouraging investment in high-performance engine parts. Additionally, sales peak during spring and fall, suggesting seasonal demand patterns that may align with vehicle maintenance cycles or industry trends.
 
 
 
