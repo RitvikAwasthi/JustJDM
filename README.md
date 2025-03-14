@@ -19,6 +19,8 @@ This analysis consolidates data from three key sources:
   
 The study reveals a decline in sales and profits. The sharpest decline is seen in engine combustion system components, potentially reflecting a shift toward electric vehicles or the impact of rising fuel costs following the Russia-Ukraine war, discouraging investment in high-performance engine parts. Additionally, sales peak during spring and fall, suggesting seasonal demand patterns that may align with vehicle maintenance cycles or industry trends.
 
+<img width="677" alt="Image" src="https://github.com/user-attachments/assets/667c2ec5-16b4-4769-9799-091b575d768e" />
+
 
 
 
