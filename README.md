@@ -132,6 +132,7 @@ https://www.speedhunters.com/2023/02/indonesian-car-culture-on-show-at-the-bandu
 
 <sub>[4] Statista, "Impact of the Russia-Ukraine War on Average Wholesale Fuel Prices," Statista, May 2022. [Online]. Available:  
 https://www.statista.com/statistics/1326377/impact-of-the-russia-ukraine-war-on-average-wholesale-fuel-prices/. [Accessed: Mar. 15, 2025].</sub> 
+
 <sub>[5]National Highway Traffic Safety Administration (NHTSA), "Importation and Certification FAQs," NHTSA, [Online]. Available: https://www.nhtsa.gov/importing-vehicle/importation-and-certification-faqs. [Accessed: Mar. 15, 2025]</sub> 
 
 
