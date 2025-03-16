@@ -1,8 +1,10 @@
-<sub>Note: Terminology at the end.</sub> 
+<sub>**Note:** Terminology at the end.</sub> 
 
 ### About JustJDM  
 
-**JustJDM** is a pseudonym used for a real JDM car parts exporter based in Japan. The business specializes in a wide range of components, from minor parts to complete engines and major vehicle systems. 
+**JustJDM** is a pseudonym for a real Japan-based JDM car parts exporter. The company specializes in a wide range of components, from small parts to complete engines and major vehicle systems. As an automobile enthusiast, I obtained revenue data from a founding partner—also a fellow enthusiast—under the condition of maintaining anonymity and limiting the use of their data.
+
+<sub>**Note:** For details on the restricted data usage, please see the **Limitations** section below.</sub> 
 
 ### Project Overview  
 
