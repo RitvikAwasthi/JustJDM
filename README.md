@@ -51,7 +51,7 @@ JustJDM's export sales analysis of 1.037K records ranging from 2022-2023 reveals
 
 #### **1. Expand Inventory for Skyline Products**  
 - **Opportunity:** Nearly **one-third** of U.S. export revenue comes from the **RB26DETT N1 Oil Pump**, a critical Nissan Skyline R34[1] component.  
-- **Market Trend:** The **25-year import rule ends in 2025-26**, allowing the legal import of R34 models into the U.S., which is expected to **significantly increase demand** for Skyline-related parts.  
+- **Market Trend:** The **25-year import rule ends in 2025-26**[5], allowing the legal import of R34 models into the U.S., which is expected to **significantly increase demand** for Skyline-related parts.  
 - **Action Plan:**  
   - Expand **inventory** of high-demand Skyline components, focusing on **R34-specific parts**.  
   - Identify and **prioritize** products with strong market demand, such as **engine components, drivetrain parts, and aftermarket modifications**.  
@@ -131,7 +131,8 @@ https://www.reddit.com/r/Thailand/comments/13m1d4a/thai_car_culture/. [Accessed:
 https://www.speedhunters.com/2023/02/indonesian-car-culture-on-show-at-the-bandung-jdm-fest/. [Accessed: Mar. 15, 2025].</sub>  
 
 <sub>[4] Statista, "Impact of the Russia-Ukraine War on Average Wholesale Fuel Prices," Statista, May 2022. [Online]. Available:  
-https://www.statista.com/statistics/1326377/impact-of-the-russia-ukraine-war-on-average-wholesale-fuel-prices/. [Accessed: Mar. 15, 2025].</sub>  
+https://www.statista.com/statistics/1326377/impact-of-the-russia-ukraine-war-on-average-wholesale-fuel-prices/. [Accessed: Mar. 15, 2025].</sub> 
+<sub>[5]National Highway Traffic Safety Administration (NHTSA), "Importation and Certification FAQs," NHTSA, [Online]. Available: https://www.nhtsa.gov/importing-vehicle/importation-and-certification-faqs. [Accessed: Mar. 15, 2025]</sub> 
 
 
 
