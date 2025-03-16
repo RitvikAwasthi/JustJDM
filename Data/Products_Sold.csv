@@ -1,0 +1,1047 @@
+Date,Customer Type,Country,Product,Discount Band,Units Sold
+2022-11-15,Commercial Resellers,Germany,MZ-FD3S-OMP,None,15
+2023-05-07,Garages ,Australia , SB-EJ207-AVCS ,None,6
+2023-11-11,Commercial Resellers,United States,HD-B18C-VTEC,None,18
+2022-11-07,Commercial Resellers,United Kingdom,HD-B18C-VTEC,None,15
+2022-04-14,Commercial Resellers,United States,NS-R32N1-OP,None,18
+2022-10-12,Garages ,Australia ,MZ-FD3S-OMP,None,6
+2022-03-25,Commercial Resellers,UAE,MZ-FD3S-OMP,Low,22
+2022-09-16,Commercial Resellers,UAE,HD-B18C-VTEC,Low,22
+2022-04-30,Commercial Resellers,United States,MZ-FD3S-OMP,Low,29
+2023-04-01,Vehicle Manufacturers,United States,HD-B18C-VTEC,Low,19
+2022-03-17,Commercial Resellers,United States,HD-B18C-VTEC,Low,29
+2022-08-31,Private Enthusiasts,United States,HD-B18C-VTEC,Low,27
+2022-09-01,Restoration Specialists,UAE,HD-B18C-VTEC,Low,11
+2023-09-13,Restoration Specialists,Germany,HD-B18C-VTEC,Low,11
+2023-03-12,Restoration Specialists,UAE, TY-AE111-TB,Low,11
+2022-10-28,Restoration Specialists,Germany, TY-AE111-TB,Low,11
+2022-04-25,Private Enthusiasts,United States,NS-R32N1-OP,Low,27
+2023-10-21,Vehicle Manufacturers,United States,MT-EVO8-ECU,Low,19
+2022-10-10,Private Enthusiasts,UAE, SB-EJ207-AVCS ,Low,13
+2023-01-13,Private Enthusiasts,United Kingdom, SB-EJ207-AVCS ,Low,17
+2023-11-09,Private Enthusiasts,UAE,HD-B18C-VTEC,Low,13
+2023-01-13,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,17
+2022-10-20,Commercial Resellers,Australia ,MZ-FD3S-OMP,Low,3
+2023-01-05,Private Enthusiasts,Germany, SB-EJ207-AVCS ,Low,11
+2023-03-25,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,3
+2022-01-21,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,11
+2023-09-30,Restoration Specialists,United States,HD-B18C-VTEC,Medium,24
+2022-04-27,Restoration Specialists,United States, TY-AE111-TB,Medium,24
+2022-04-16,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,6
+2023-05-01,Commercial Resellers,UAE,MZ-FD3S-OMP,Medium,25
+2022-11-05,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,27
+2023-09-17,Vehicle Manufacturers,United Kingdom, TY-AE111-TB,Medium,13
+2023-11-15,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,27
+2023-04-20,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,6
+2023-11-12,Commercial Resellers,UAE,NS-R32N1-OP,Medium,25
+2023-09-01,Vehicle Manufacturers,United Kingdom,MT-EVO8-ECU,Medium,13
+2022-07-10,Commercial Resellers,United States, TY-AE111-TB,Medium,16
+2023-03-17,Commercial Resellers,United States,NS-R32N1-OP,Medium,16
+2023-04-06,Vehicle Manufacturers,Australia , TY-AE111-TB,Medium,14
+2022-11-18,Vehicle Manufacturers,Australia ,MT-EVO8-ECU,Medium,14
+2023-04-03,Commercial Resellers,Germany,MZ-FD3S-OMP,Medium,14
+2022-04-13,Garages ,United Kingdom, SB-EJ207-AVCS ,Medium,7
+2023-03-19,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,14
+2023-11-26,Vehicle Manufacturers,Germany, TY-AE111-TB,Medium,6
+2022-12-31,Garages ,United Kingdom,MT-EVO8-ECU,Medium,7
+2023-11-04,Vehicle Manufacturers,Germany,MT-EVO8-ECU,Medium,6
+2022-03-19,Private Enthusiasts,Australia , SB-EJ207-AVCS ,Medium,28
+2022-11-24,Private Enthusiasts,Australia ,HD-B18C-VTEC,Medium,28
+2022-05-05,Commercial Resellers,Germany,MZ-FD3S-OMP,Medium,5
+2023-11-29,Commercial Resellers,Germany,NS-R32N1-OP,Medium,5
+2023-09-03,Garages ,UAE, SB-EJ207-AVCS ,High,21
+2023-06-07,Vehicle Manufacturers,UAE, TY-AE111-TB,High,9
+2023-05-03,Garages ,UAE,MT-EVO8-ECU,High,21
+2023-09-24,Vehicle Manufacturers,UAE,MT-EVO8-ECU,High,9
+2022-04-12,Garages ,Germany, SB-EJ207-AVCS ,High,22
+2023-11-12,Garages ,Germany,MT-EVO8-ECU,High,22
+2023-04-15,Commercial Resellers,Germany,HD-B18C-VTEC,High,12
+2023-04-28,Commercial Resellers,Germany,NS-R32N1-OP,High,12
+2022-03-15,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,15
+2022-04-23,Commercial Resellers,United Kingdom,NS-R32N1-OP,High,15
+2022-03-18,Restoration Specialists,United Kingdom,HD-B18C-VTEC,High,10
+2022-08-22,Restoration Specialists,United Kingdom, TY-AE111-TB,High,10
+2022-05-28,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,High,3
+2022-10-01,Commercial Resellers,United Kingdom,NS-R32N1-OP,High,3
+2022-09-18,Garages ,United States,MZ-FD3S-OMP,High,23
+2023-10-09,Garages ,United States, SB-EJ207-AVCS ,High,23
+2022-11-13,Restoration Specialists,Australia ,HD-B18C-VTEC,High,9
+2022-04-06,Commercial Resellers,UAE,HD-B18C-VTEC,High,3
+2022-03-22,Restoration Specialists,Australia , TY-AE111-TB,High,9
+2022-03-08,Commercial Resellers,UAE,NS-R32N1-OP,High,3
+2022-10-18,Commercial Resellers,UAE, TY-AE111-TB,Low,6
+2022-05-02,Vehicle Manufacturers,Australia ,HD-B18C-VTEC,Low,29
+2023-02-19,Private Enthusiasts,UAE,NS-R32N1-OP,Low,17
+2022-08-09,Restoration Specialists,Germany, SB-EJ207-AVCS ,Low,7
+2022-01-31,Commercial Resellers,Australia ,MT-EVO8-ECU,Low,12
+2022-10-19,Commercial Resellers,UAE,MT-EVO8-ECU,Low,9
+2022-08-12,Garages ,Germany,MZ-FD3S-OMP,Medium,28
+2022-11-26,Restoration Specialists,United Kingdom, SB-EJ207-AVCS ,Medium,23
+2023-10-23,Garages ,Australia ,MZ-FD3S-OMP,Medium,20
+2022-11-03,Restoration Specialists,Australia , SB-EJ207-AVCS ,Medium,27
+2022-11-18,Commercial Resellers,Germany, TY-AE111-TB,Medium,13
+2022-09-13,Restoration Specialists,UAE, SB-EJ207-AVCS ,Medium,23
+2023-10-26,Commercial Resellers,Australia , TY-AE111-TB,Medium,6
+2023-11-27,Commercial Resellers,United States,MT-EVO8-ECU,Medium,11
+2023-09-14,Garages ,UAE,MZ-FD3S-OMP,Medium,5
+2022-07-07,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,15
+2022-11-19,Restoration Specialists,United States, SB-EJ207-AVCS ,Medium,23
+2022-10-05,Vehicle Manufacturers,UAE,HD-B18C-VTEC,Medium,13
+2023-12-13,Private Enthusiasts,Germany,NS-R32N1-OP,Medium,9
+2023-03-04,Commercial Resellers,Germany,MT-EVO8-ECU,Medium,17
+2023-10-02,Commercial Resellers,United Kingdom, TY-AE111-TB,High,27
+2023-09-21,Private Enthusiasts,United States,NS-R32N1-OP,High,25
+2023-11-13,Vehicle Manufacturers,United States,HD-B18C-VTEC,High,14
+2023-04-18,Commercial Resellers,United States, TY-AE111-TB,High,18
+2023-06-28,Garages ,United States,MZ-FD3S-OMP,High,27
+2022-11-10,Commercial Resellers,UAE,HD-B18C-VTEC,High,16
+2023-09-30,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,High,14
+2023-11-10,Vehicle Manufacturers,Germany,HD-B18C-VTEC,High,22
+2023-09-30,Commercial Resellers,Germany,HD-B18C-VTEC,High,12
+2023-05-09,Private Enthusiasts,Australia ,NS-R32N1-OP,High,24
+2023-03-27,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,4
+2022-03-28,Garages ,United Kingdom,MZ-FD3S-OMP,High,15
+2023-09-27,Commercial Resellers,United States,HD-B18C-VTEC,High,7
+2022-11-15,Commercial Resellers,Australia ,HD-B18C-VTEC,High,12
+2022-04-10,Private Enthusiasts,United Kingdom,NS-R32N1-OP,High,6
+2023-09-02,Commercial Resellers,Australia ,HD-B18C-VTEC,None,11
+2022-07-17,Commercial Resellers,Australia ,MT-EVO8-ECU,None,11
+2022-10-20,Commercial Resellers,Germany,MZ-FD3S-OMP,Low,14
+2023-04-27,Commercial Resellers,Germany,NS-R32N1-OP,Low,14
+2023-02-10,Restoration Specialists,United States,MZ-FD3S-OMP,Low,13
+2023-05-01,Commercial Resellers,Australia , SB-EJ207-AVCS ,Low,16
+2022-04-23,Restoration Specialists,United States,HD-B18C-VTEC,Low,13
+2022-05-08,Commercial Resellers,Australia , TY-AE111-TB,Low,16
+2022-09-30,Commercial Resellers,United Kingdom, TY-AE111-TB,Low,29
+2023-09-25,Commercial Resellers,United Kingdom,NS-R32N1-OP,Low,29
+2022-03-09,Private Enthusiasts,United States,HD-B18C-VTEC,Low,20
+2022-05-05,Private Enthusiasts,United States, TY-AE111-TB,Low,20
+2023-09-20,Garages ,Germany, SB-EJ207-AVCS ,Low,20
+2022-12-25,Garages ,Germany,HD-B18C-VTEC,Low,20
+2022-10-09,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,Low,20
+2023-03-19,Vehicle Manufacturers,United Kingdom, SB-EJ207-AVCS ,Low,20
+2022-11-28,Commercial Resellers,UAE, TY-AE111-TB,Low,22
+2022-03-20,Commercial Resellers,UAE,NS-R32N1-OP,Low,22
+2022-10-05,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,27
+2022-04-02,Commercial Resellers,Germany,NS-R32N1-OP,Medium,27
+2023-10-19,Private Enthusiasts,Australia ,HD-B18C-VTEC,Medium,9
+2022-04-23,Private Enthusiasts,Australia , TY-AE111-TB,Medium,9
+2022-05-22,Garages ,Australia ,HD-B18C-VTEC,Medium,12
+2023-02-06,Garages ,Australia ,NS-R32N1-OP,Medium,12
+2023-04-13,Vehicle Manufacturers,UAE,MZ-FD3S-OMP,Medium,22
+2023-09-30,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,20
+2023-04-28,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,Medium,22
+2023-11-05,Commercial Resellers,UAE, TY-AE111-TB,Medium,20
+2023-05-26,Garages ,UAE,HD-B18C-VTEC,Medium,12
+2023-05-16,Commercial Resellers,United States, TY-AE111-TB,Medium,13
+2022-10-02,Garages ,UAE,NS-R32N1-OP,Medium,12
+2022-10-14,Commercial Resellers,United States,MT-EVO8-ECU,Medium,13
+2022-12-23,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,4
+2022-03-12,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,4
+2023-03-13,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,2
+2022-03-01,Commercial Resellers,United Kingdom, TY-AE111-TB,High,2
+2023-03-09,Restoration Specialists,United Kingdom, TY-AE111-TB,High,5
+2022-11-05,Restoration Specialists,United Kingdom,MT-EVO8-ECU,High,5
+2022-08-29,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,24
+2023-02-02,Private Enthusiasts,UAE,HD-B18C-VTEC,High,24
+2022-05-20,Private Enthusiasts,Germany,MZ-FD3S-OMP,High,22
+2023-03-15,Commercial Resellers,United States, SB-EJ207-AVCS ,High,27
+2023-03-08,Private Enthusiasts,Germany,HD-B18C-VTEC,High,22
+2022-04-17,Commercial Resellers,Germany,HD-B18C-VTEC,High,9
+2023-04-24,Commercial Resellers,Australia , TY-AE111-TB,High,10
+2023-07-28,Commercial Resellers,Germany, TY-AE111-TB,High,9
+2022-03-25,Commercial Resellers,Australia ,NS-R32N1-OP,High,10
+2023-09-02,Commercial Resellers,United States,MT-EVO8-ECU,High,27
+2022-04-25,Commercial Resellers,United States, SB-EJ207-AVCS ,High,13
+2022-03-28,Garages ,United States,HD-B18C-VTEC,High,16
+2023-05-26,Commercial Resellers,United States,HD-B18C-VTEC,High,13
+2022-09-16,Restoration Specialists,Germany, TY-AE111-TB,High,4
+2022-09-26,Garages ,United States,NS-R32N1-OP,High,16
+2023-04-01,Restoration Specialists,Germany,MT-EVO8-ECU,High,4
+2022-03-18,Restoration Specialists,UAE,HD-B18C-VTEC,High,14
+2023-11-25,Restoration Specialists,UAE,MT-EVO8-ECU,High,14
+2022-10-15,Vehicle Manufacturers,United States,MZ-FD3S-OMP,High,15
+2022-11-15,Vehicle Manufacturers,Australia ,MZ-FD3S-OMP,High,10
+2023-11-27,Restoration Specialists,Australia ,HD-B18C-VTEC,High,29
+2022-04-29,Commercial Resellers,UAE,HD-B18C-VTEC,High,17
+2023-02-01,Vehicle Manufacturers,United States,NS-R32N1-OP,High,15
+2023-04-20,Vehicle Manufacturers,Australia ,NS-R32N1-OP,High,10
+2023-05-20,Restoration Specialists,Australia ,MT-EVO8-ECU,High,29
+2023-12-09,Commercial Resellers,UAE,MT-EVO8-ECU,High,17
+2022-10-27,Private Enthusiasts,United Kingdom,MZ-FD3S-OMP,High,11
+2023-11-15,Vehicle Manufacturers,Germany, SB-EJ207-AVCS ,High,6
+2022-09-18,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,High,11
+2023-04-16,Garages ,United Kingdom,HD-B18C-VTEC,High,12
+2023-05-26,Garages ,United Kingdom,NS-R32N1-OP,High,12
+2023-04-18,Vehicle Manufacturers,Germany,MT-EVO8-ECU,High,6
+2023-11-10,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,None,22
+2023-11-04,Garages ,Germany,HD-B18C-VTEC,None,25
+2022-04-24,Vehicle Manufacturers,UAE,NS-R32N1-OP,None,22
+2022-05-28,Restoration Specialists,United States,MZ-FD3S-OMP,Low,15
+2022-03-16,Restoration Specialists,UAE,MZ-FD3S-OMP,Low,27
+2023-05-30,Garages ,United Kingdom,HD-B18C-VTEC,Low,8
+2023-01-26,Vehicle Manufacturers,United Kingdom,NS-R32N1-OP,Low,10
+2022-03-23,Restoration Specialists,Australia ,MZ-FD3S-OMP,Low,20
+2023-10-08,Commercial Resellers,UAE, SB-EJ207-AVCS ,Low,5
+2022-05-09,Garages ,United States,HD-B18C-VTEC,Low,2
+2022-11-26,Commercial Resellers,United States,HD-B18C-VTEC,Low,21
+2023-09-29,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,11
+2022-09-05,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Low,19
+2023-07-17,Garages ,UAE,HD-B18C-VTEC,Medium,26
+2022-10-23,Restoration Specialists,Germany,MZ-FD3S-OMP,Medium,6
+2022-11-03,Commercial Resellers,Germany,MT-EVO8-ECU,Medium,17
+2022-07-04,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,15
+2023-03-16,Private Enthusiasts,United Kingdom, TY-AE111-TB,Medium,21
+2022-05-26,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,29
+2023-11-06,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,19
+2022-12-19,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,30
+2023-08-08,Vehicle Manufacturers,United States,NS-R32N1-OP,Medium,21
+2023-05-25,Private Enthusiasts,United States, TY-AE111-TB,Medium,6
+2022-04-20,Private Enthusiasts,Germany, TY-AE111-TB,Medium,21
+2023-10-19,Vehicle Manufacturers,Australia ,NS-R32N1-OP,Medium,19
+2023-09-09,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,21
+2022-04-16,Restoration Specialists,United Kingdom,MZ-FD3S-OMP,Medium,16
+2023-08-07,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,23
+2023-09-15,Private Enthusiasts,Australia , TY-AE111-TB,High,16
+2022-11-19,Vehicle Manufacturers,Germany,NS-R32N1-OP,High,4
+2022-12-04,Commercial Resellers,United States,MT-EVO8-ECU,High,7
+2023-05-04,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,24
+2022-11-17,Garages ,Australia ,HD-B18C-VTEC,High,18
+2022-10-03,Commercial Resellers,United States, SB-EJ207-AVCS ,High,4
+2022-05-13,Private Enthusiasts,UAE, TY-AE111-TB,High,7
+2023-11-30,Vehicle Manufacturers,Germany, SB-EJ207-AVCS ,None,10
+2023-09-15,Commercial Resellers,Germany,HD-B18C-VTEC,None,9
+2022-04-18,Private Enthusiasts,Australia , TY-AE111-TB,None,28
+2023-10-03,Restoration Specialists,Australia ,MT-EVO8-ECU,None,21
+2022-05-31,Commercial Resellers,United States, SB-EJ207-AVCS ,Low,18
+2023-02-27,Private Enthusiasts,United States, TY-AE111-TB,Low,9
+2023-02-18,Vehicle Manufacturers,United States,NS-R32N1-OP,Low,19
+2023-04-03,Commercial Resellers,Germany,NS-R32N1-OP,Low,16
+2022-01-25,Vehicle Manufacturers,United Kingdom, SB-EJ207-AVCS ,Low,19
+2023-10-09,Restoration Specialists,Germany,MT-EVO8-ECU,Medium,11
+2023-10-23,Commercial Resellers,Australia , TY-AE111-TB,Medium,28
+2023-01-27,Commercial Resellers,UAE, TY-AE111-TB,Medium,16
+2022-10-20,Commercial Resellers,United States,MT-EVO8-ECU,Medium,6
+2023-03-30,Garages ,Australia ,HD-B18C-VTEC,Medium,22
+2023-10-25,Garages ,United Kingdom,HD-B18C-VTEC,Medium,17
+2023-04-24,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,10
+2022-05-23,Restoration Specialists,United States,MZ-FD3S-OMP,Medium,19
+2022-10-31,Garages ,UAE,HD-B18C-VTEC,Medium,21
+2023-09-24,Commercial Resellers,Germany, TY-AE111-TB,Medium,6
+2022-09-02,Private Enthusiasts,Germany,MZ-FD3S-OMP,Medium,15
+2023-02-18,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,Medium,16
+2022-10-12,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,7
+2023-10-17,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,16
+2023-11-11,Commercial Resellers,UAE,NS-R32N1-OP,Medium,4
+2023-03-15,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,4
+2023-07-27,Commercial Resellers,Australia ,NS-R32N1-OP,High,28
+2023-09-03,Restoration Specialists,United Kingdom,MT-EVO8-ECU,High,26
+2022-04-03,Commercial Resellers,United States,HD-B18C-VTEC,High,24
+2023-04-26,Garages ,Germany,HD-B18C-VTEC,High,20
+2022-11-19,Commercial Resellers,UAE,HD-B18C-VTEC,High,27
+2022-11-25,Vehicle Manufacturers,Australia ,NS-R32N1-OP,High,25
+2023-09-06,Restoration Specialists,UAE,MT-EVO8-ECU,High,25
+2023-04-18,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,12
+2022-03-14,Private Enthusiasts,United Kingdom,MZ-FD3S-OMP,High,28
+2023-04-10,Garages ,United States,HD-B18C-VTEC,High,26
+2022-11-28,Private Enthusiasts,United States, SB-EJ207-AVCS ,None,27
+2022-05-20,Restoration Specialists,United Kingdom,HD-B18C-VTEC,None,4
+2023-10-16,Commercial Resellers,United Kingdom,MT-EVO8-ECU,None,17
+2022-01-26,Commercial Resellers,Australia ,MZ-FD3S-OMP,Low,25
+2023-01-08,Commercial Resellers,UAE, SB-EJ207-AVCS ,Low,14
+2022-04-01,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,18
+2023-05-23,Restoration Specialists,Australia ,HD-B18C-VTEC,Low,14
+2022-07-21,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,35
+2023-10-07,Private Enthusiasts,UAE,HD-B18C-VTEC,Low,30
+2022-04-22,Commercial Resellers,Germany,MT-EVO8-ECU,Medium,17
+2023-06-27,Private Enthusiasts,Australia , SB-EJ207-AVCS ,Medium,36
+2023-02-25,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Medium,35
+2022-09-27,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,17
+2022-10-31,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Medium,7
+2023-04-03,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,4
+2022-06-18,Vehicle Manufacturers,United States, TY-AE111-TB,Medium,38
+2023-04-20,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,13
+2022-09-28,Commercial Resellers,United States,MZ-FD3S-OMP,Medium,8
+2023-05-10,Garages ,United States,MT-EVO8-ECU,Medium,16
+2022-11-24,Commercial Resellers,UAE, TY-AE111-TB,High,6
+2023-11-11,Garages ,Germany,NS-R32N1-OP,High,6
+2023-11-16,Garages ,Australia ,MT-EVO8-ECU,High,32
+2022-01-16,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,High,28
+2023-09-24,Commercial Resellers,United States,HD-B18C-VTEC,High,21
+2023-05-11,Restoration Specialists,United States,HD-B18C-VTEC,High,40
+2022-05-16,Restoration Specialists,UAE,HD-B18C-VTEC,High,24
+2022-03-02,Commercial Resellers,Germany, TY-AE111-TB,High,14
+2023-04-22,Garages ,UAE,NS-R32N1-OP,High,39
+2022-06-05,Commercial Resellers,UAE,MT-EVO8-ECU,High,34
+2023-06-04,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,23
+2023-03-13,Restoration Specialists,Germany,HD-B18C-VTEC,High,6
+2022-05-14,Vehicle Manufacturers,Germany,MZ-FD3S-OMP,High,8
+2022-07-28,Vehicle Manufacturers,Australia , TY-AE111-TB,High,25
+2022-10-08,Commercial Resellers,United States,NS-R32N1-OP,High,9
+2022-11-12,Garages ,United Kingdom,NS-R32N1-OP,High,5
+2022-05-17,Garages ,UAE,MZ-FD3S-OMP,None,22
+2023-11-20,Garages ,United Kingdom,MZ-FD3S-OMP,None,9
+2022-08-06,Garages ,Germany,MZ-FD3S-OMP,None,25
+2023-09-14,Restoration Specialists,United States, SB-EJ207-AVCS ,None,25
+2022-09-21,Commercial Resellers,UAE, SB-EJ207-AVCS ,None,19
+2022-07-25,Restoration Specialists,United Kingdom, SB-EJ207-AVCS ,None,16
+2022-10-25,Garages ,Germany, SB-EJ207-AVCS ,None,25
+2022-10-09,Restoration Specialists,United States,HD-B18C-VTEC,None,25
+2023-04-23,Commercial Resellers,United Kingdom,HD-B18C-VTEC,None,10
+2022-04-12,Commercial Resellers,United Kingdom, TY-AE111-TB,None,10
+2023-11-29,Restoration Specialists,United Kingdom, TY-AE111-TB,None,16
+2022-04-26,Garages ,UAE,NS-R32N1-OP,None,22
+2022-03-29,Garages ,United Kingdom,NS-R32N1-OP,None,9
+2023-05-26,Commercial Resellers,UAE,MT-EVO8-ECU,None,19
+2022-04-11,Private Enthusiasts,Australia ,HD-B18C-VTEC,Low,7
+2023-02-05,Private Enthusiasts,UAE,HD-B18C-VTEC,Low,8
+2023-04-19,Private Enthusiasts,Australia ,NS-R32N1-OP,Low,7
+2023-04-16,Private Enthusiasts,UAE,NS-R32N1-OP,Low,8
+2023-05-18,Restoration Specialists,Australia , SB-EJ207-AVCS ,Low,11
+2023-10-21,Restoration Specialists,Australia ,HD-B18C-VTEC,Low,11
+2023-11-10,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,7
+2023-07-19,Private Enthusiasts,Germany,NS-R32N1-OP,Low,7
+2023-03-29,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,Low,7
+2022-02-06,Restoration Specialists,UAE, SB-EJ207-AVCS ,Low,19
+2022-08-15,Restoration Specialists,UAE,HD-B18C-VTEC,Low,19
+2023-04-12,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Low,7
+2023-03-19,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,16
+2023-05-21,Private Enthusiasts,United Kingdom,NS-R32N1-OP,Low,16
+2022-05-28,Vehicle Manufacturers,Australia ,MZ-FD3S-OMP,Medium,10
+2023-03-30,Vehicle Manufacturers,Australia ,HD-B18C-VTEC,Medium,10
+2022-09-29,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,6
+2023-05-31,Commercial Resellers,Australia , TY-AE111-TB,Medium,6
+2022-10-06,Garages ,United States,MZ-FD3S-OMP,Medium,28
+2022-03-24,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,15
+2022-10-15,Commercial Resellers,UAE, TY-AE111-TB,Medium,15
+2022-05-16,Commercial Resellers,Germany, TY-AE111-TB,Medium,15
+2022-09-21,Garages ,United States,NS-R32N1-OP,Medium,28
+2023-10-27,Commercial Resellers,Germany,NS-R32N1-OP,Medium,15
+2023-02-28,Commercial Resellers,United States, TY-AE111-TB,Medium,11
+2023-09-17,Commercial Resellers,United States,MT-EVO8-ECU,Medium,11
+2022-10-16,Vehicle Manufacturers,UAE,MZ-FD3S-OMP,Medium,5
+2022-09-23,Vehicle Manufacturers,UAE,HD-B18C-VTEC,Medium,5
+2022-04-16,Commercial Resellers,Australia , SB-EJ207-AVCS ,Medium,13
+2022-10-06,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,13
+2023-05-20,Commercial Resellers,United States, SB-EJ207-AVCS ,Medium,7
+2022-09-29,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,14
+2023-07-24,Vehicle Manufacturers,Germany,HD-B18C-VTEC,Medium,25
+2023-06-19,Commercial Resellers,Australia , TY-AE111-TB,Medium,29
+2023-03-04,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,23
+2023-04-30,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,23
+2022-08-13,Commercial Resellers,United States,MT-EVO8-ECU,Medium,7
+2022-04-28,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,29
+2023-10-24,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,14
+2023-06-03,Vehicle Manufacturers,Germany,MT-EVO8-ECU,Medium,25
+2023-08-04,Vehicle Manufacturers,United States,MZ-FD3S-OMP,Medium,11
+2022-11-10,Vehicle Manufacturers,United States,HD-B18C-VTEC,Medium,11
+2023-11-15,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,10
+2023-11-04,Commercial Resellers,Germany,MT-EVO8-ECU,Medium,10
+2022-10-30,Commercial Resellers,Germany,MZ-FD3S-OMP,High,9
+2022-03-30,Commercial Resellers,Germany,HD-B18C-VTEC,High,9
+2022-04-14,Garages ,Australia ,MZ-FD3S-OMP,High,26
+2022-04-26,Garages ,Australia ,NS-R32N1-OP,High,26
+2022-12-05,Restoration Specialists,Germany, SB-EJ207-AVCS ,High,6
+2023-06-24,Commercial Resellers,United States,HD-B18C-VTEC,High,26
+2022-03-22,Private Enthusiasts,United States,HD-B18C-VTEC,High,16
+2022-09-21,Commercial Resellers,United States, TY-AE111-TB,High,26
+2023-11-12,Commercial Resellers,UAE, TY-AE111-TB,High,12
+2023-10-02,Restoration Specialists,Germany, TY-AE111-TB,High,6
+2023-11-02,Private Enthusiasts,United States,NS-R32N1-OP,High,16
+2022-03-18,Commercial Resellers,UAE,MT-EVO8-ECU,High,12
+2023-11-23,Commercial Resellers,UAE,HD-B18C-VTEC,Low,10
+2022-03-21,Commercial Resellers,Germany, TY-AE111-TB,Low,4
+2022-10-04,Vehicle Manufacturers,UAE,HD-B18C-VTEC,Low,9
+2023-02-19,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Low,17
+2022-08-26,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,Low,23
+2022-05-30,Commercial Resellers,United States,MZ-FD3S-OMP,Low,8
+2022-07-15,Vehicle Manufacturers,Australia ,HD-B18C-VTEC,Low,29
+2022-09-07,Restoration Specialists,UAE,NS-R32N1-OP,Low,9
+2022-11-03,Commercial Resellers,UAE,MZ-FD3S-OMP,Medium,16
+2023-09-28,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,23
+2023-04-04,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Medium,15
+2023-12-03,Garages ,United Kingdom, TY-AE111-TB,Medium,15
+2022-10-22,Garages ,United States, TY-AE111-TB,Medium,13
+2023-01-11,Vehicle Manufacturers,United States,HD-B18C-VTEC,Medium,17
+2022-02-03,Private Enthusiasts,United States,MT-EVO8-ECU,Medium,17
+2023-04-02,Commercial Resellers,United States,HD-B18C-VTEC,Medium,3
+2023-04-13,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,11
+2022-11-29,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,17
+2023-05-07,Garages ,Germany, TY-AE111-TB,Medium,3
+2022-08-25,Restoration Specialists,United Kingdom,NS-R32N1-OP,Medium,9
+2022-10-01,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,Medium,7
+2023-11-14,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,23
+2022-11-27,Vehicle Manufacturers,Germany,HD-B18C-VTEC,High,6
+2023-05-16,Garages ,Australia , TY-AE111-TB,High,8
+2023-04-30,Private Enthusiasts,Germany,NS-R32N1-OP,High,3
+2022-03-29,Commercial Resellers,Germany,MT-EVO8-ECU,High,20
+2023-09-17,Private Enthusiasts,UAE,MT-EVO8-ECU,High,14
+2022-10-18,Restoration Specialists,United States,NS-R32N1-OP,High,21
+2022-10-25,Restoration Specialists,Germany, SB-EJ207-AVCS ,High,27
+2023-08-28,Commercial Resellers,Australia ,MZ-FD3S-OMP,High,17
+2023-07-19,Commercial Resellers,United States, SB-EJ207-AVCS ,High,2
+2022-03-19,Private Enthusiasts,Australia ,MT-EVO8-ECU,High,28
+2023-05-25,Commercial Resellers,Germany,HD-B18C-VTEC,High,29
+2022-04-06,Garages ,UAE, TY-AE111-TB,High,28
+2022-10-06,Restoration Specialists,Australia ,NS-R32N1-OP,High,18
+2022-03-28,Restoration Specialists,United Kingdom,NS-R32N1-OP,None,28
+2022-05-15,Restoration Specialists,Australia ,MT-EVO8-ECU,None,20
+2023-11-05,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,None,42
+2023-11-06,Vehicle Manufacturers,Australia , SB-EJ207-AVCS ,Low,23
+2022-11-26,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,45
+2023-05-22,Commercial Resellers,UAE, TY-AE111-TB,Low,39
+2023-11-02,Commercial Resellers,United States,NS-R32N1-OP,Low,9
+2023-07-31,Private Enthusiasts,United States,MZ-FD3S-OMP,Low,7
+2022-06-17,Private Enthusiasts,UAE,MZ-FD3S-OMP,Low,42
+2022-05-06,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,Low,26
+2023-05-13,Restoration Specialists,Germany,NS-R32N1-OP,Low,19
+2022-09-11,Commercial Resellers,United States, TY-AE111-TB,Low,39
+2023-11-07,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Low,14
+2023-11-23,Private Enthusiasts,Germany,MT-EVO8-ECU,Low,11
+2023-10-20,Vehicle Manufacturers,Germany,HD-B18C-VTEC,Medium,16
+2022-03-19,Garages ,UAE,HD-B18C-VTEC,Medium,38
+2022-09-17,Commercial Resellers,Germany, SB-EJ207-AVCS ,Medium,10
+2023-04-03,Restoration Specialists,UAE,NS-R32N1-OP,Medium,17
+2022-03-19,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,13
+2022-09-15,Commercial Resellers,UAE,NS-R32N1-OP,Medium,6
+2023-03-27,Vehicle Manufacturers,United States, SB-EJ207-AVCS ,Medium,38
+2023-11-25,Garages ,Australia ,HD-B18C-VTEC,Medium,37
+2023-06-12,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,14
+2022-05-25,Garages ,Germany, TY-AE111-TB,Medium,26
+2023-04-10,Private Enthusiasts,Australia ,MZ-FD3S-OMP,High,35
+2023-11-30,Garages ,United Kingdom, TY-AE111-TB,High,5
+2022-01-11,Restoration Specialists,United States,MT-EVO8-ECU,High,35
+2022-09-06,Commercial Resellers,UAE,HD-B18C-VTEC,High,25
+2023-10-09,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,High,18
+2022-03-19,Commercial Resellers,Germany,MZ-FD3S-OMP,High,26
+2022-09-28,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,High,12
+2023-04-08,Commercial Resellers,Australia , TY-AE111-TB,High,6
+2022-10-31,Garages ,United States,HD-B18C-VTEC,High,16
+2022-05-11,Commercial Resellers,Germany,HD-B18C-VTEC,High,25
+2022-11-04,Commercial Resellers,United States,HD-B18C-VTEC,High,7
+2023-04-23,Garages ,United Kingdom, SB-EJ207-AVCS ,None,9
+2022-04-28,Restoration Specialists,United Kingdom, TY-AE111-TB,None,22
+2023-07-30,Commercial Resellers,United States,NS-R32N1-OP,Low,13
+2023-04-16,Commercial Resellers,Germany,MZ-FD3S-OMP,Low,12
+2022-03-12,Garages ,Germany, SB-EJ207-AVCS ,Low,22
+2023-03-05,Commercial Resellers,United Kingdom,NS-R32N1-OP,Low,3
+2023-05-04,Vehicle Manufacturers,United Kingdom,MT-EVO8-ECU,Low,3
+2023-09-17,Vehicle Manufacturers,Germany,MT-EVO8-ECU,Low,11
+2022-09-28,Private Enthusiasts,United States,HD-B18C-VTEC,Low,18
+2023-08-12,Garages ,United States, SB-EJ207-AVCS ,Low,20
+2022-03-02,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,8
+2023-09-20,Restoration Specialists,Australia , TY-AE111-TB,Low,15
+2022-03-28,Private Enthusiasts,Australia ,HD-B18C-VTEC,Medium,30
+2023-03-24,Private Enthusiasts,UAE,HD-B18C-VTEC,Medium,24
+2023-03-17,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,18
+2022-03-19,Garages ,UAE, SB-EJ207-AVCS ,Medium,25
+2022-05-19,Private Enthusiasts,Germany,HD-B18C-VTEC,Medium,11
+2022-11-19,Restoration Specialists,United States, TY-AE111-TB,Medium,6
+2022-05-27,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,10
+2022-12-17,Restoration Specialists,UAE, TY-AE111-TB,Medium,20
+2022-09-13,Commercial Resellers,UAE,HD-B18C-VTEC,High,20
+2023-11-16,Vehicle Manufacturers,Australia ,MT-EVO8-ECU,High,30
+2022-11-30,Commercial Resellers,Australia ,NS-R32N1-OP,High,16
+2023-10-03,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,High,8
+2023-05-07,Commercial Resellers,Germany,HD-B18C-VTEC,High,11
+2023-11-12,Garages ,Australia , SB-EJ207-AVCS ,High,7
+2022-10-26,Commercial Resellers,UAE,NS-R32N1-OP,High,15
+2022-03-30,Commercial Resellers,United States,MZ-FD3S-OMP,High,9
+2023-04-08,Commercial Resellers,UAE,MZ-FD3S-OMP,High,18
+2022-09-24,Commercial Resellers,United States,HD-B18C-VTEC,High,24
+2023-09-05,Commercial Resellers,Germany,NS-R32N1-OP,High,29
+2022-11-26,Vehicle Manufacturers,United States,MT-EVO8-ECU,High,9
+2023-01-19,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,12
+2023-10-15,Restoration Specialists,Germany, TY-AE111-TB,High,5
+2022-10-21,Vehicle Manufacturers,UAE,MT-EVO8-ECU,High,25
+2023-10-11,Commercial Resellers,United States,HD-B18C-VTEC,None,3
+2022-08-14,Garages ,Germany,HD-B18C-VTEC,None,10
+2023-11-14,Private Enthusiasts,UAE, TY-AE111-TB,None,18
+2023-06-23,Vehicle Manufacturers,United States,NS-R32N1-OP,None,20
+2022-05-31,Commercial Resellers,UAE,MT-EVO8-ECU,None,28
+2022-11-13,Garages ,UAE,HD-B18C-VTEC,Low,23
+2023-05-09,Restoration Specialists,Australia ,MZ-FD3S-OMP,Low,19
+2022-04-13,Garages ,Australia ,HD-B18C-VTEC,Low,15
+2022-09-22,Garages ,United States,HD-B18C-VTEC,Low,24
+2022-09-20,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Low,20
+2023-05-20,Vehicle Manufacturers,Australia ,NS-R32N1-OP,Low,28
+2023-03-29,Commercial Resellers,Germany,MT-EVO8-ECU,Low,19
+2023-03-15,Restoration Specialists,UAE,MZ-FD3S-OMP,Medium,19
+2022-08-01,Restoration Specialists,United Kingdom,MZ-FD3S-OMP,Medium,11
+2023-03-19,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,13
+2022-03-27,Private Enthusiasts,United Kingdom, TY-AE111-TB,Medium,8
+2022-05-23,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,14
+2023-11-25,Private Enthusiasts,United States, TY-AE111-TB,Medium,10
+2022-03-12,Private Enthusiasts,Australia , TY-AE111-TB,Medium,28
+2023-08-14,Restoration Specialists,Germany,MZ-FD3S-OMP,Medium,7
+2022-09-09,Vehicle Manufacturers,UAE,NS-R32N1-OP,Medium,10
+2022-03-29,Vehicle Manufacturers,Germany,NS-R32N1-OP,Medium,28
+2022-03-07,Commercial Resellers,United States, SB-EJ207-AVCS ,Medium,5
+2022-04-11,Vehicle Manufacturers,United Kingdom,NS-R32N1-OP,Medium,27
+2022-10-12,Commercial Resellers,United States,MT-EVO8-ECU,High,22
+2022-09-03,Restoration Specialists,United States,MZ-FD3S-OMP,High,19
+2023-11-03,Commercial Resellers,Australia ,MT-EVO8-ECU,High,3
+2022-04-29,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,13
+2022-05-23,Commercial Resellers,Australia ,HD-B18C-VTEC,High,26
+2022-09-08,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,27
+2023-03-02,Commercial Resellers,UAE, SB-EJ207-AVCS ,High,3
+2022-03-29,Garages ,United Kingdom,HD-B18C-VTEC,High,3
+2023-05-29,Commercial Resellers,Germany,HD-B18C-VTEC,High,3
+2022-11-17,Private Enthusiasts,Germany, TY-AE111-TB,High,16
+2022-12-28,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,14
+2023-10-18,Commercial Resellers,United States,MZ-FD3S-OMP,None,16
+2022-04-19,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,None,13
+2023-09-29,Commercial Resellers,Germany, TY-AE111-TB,None,15
+2023-11-06,Commercial Resellers,UAE,HD-B18C-VTEC,Low,40
+2023-09-08,Vehicle Manufacturers,UAE,HD-B18C-VTEC,Low,24
+2022-08-16,Restoration Specialists,United Kingdom,NS-R32N1-OP,Low,25
+2022-05-29,Commercial Resellers,United States,HD-B18C-VTEC,Low,43
+2023-05-27,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,14
+2023-10-06,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,14
+2022-06-09,Garages ,Australia , TY-AE111-TB,Medium,6
+2022-12-01,Garages ,Germany, TY-AE111-TB,Medium,29
+2023-11-27,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,11
+2022-03-29,Private Enthusiasts,UAE,MT-EVO8-ECU,Medium,20
+2023-09-19,Restoration Specialists,Germany, SB-EJ207-AVCS ,Medium,23
+2023-09-05,Restoration Specialists,United States,NS-R32N1-OP,Medium,32
+2023-05-13,Vehicle Manufacturers,Germany,HD-B18C-VTEC,Medium,26
+2022-03-17,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,24
+2023-04-29,Restoration Specialists,Australia ,NS-R32N1-OP,Medium,20
+2022-05-12,Garages ,United Kingdom, TY-AE111-TB,High,7
+2022-12-25,Private Enthusiasts,Australia ,MT-EVO8-ECU,High,6
+2022-03-14,Garages ,United States, TY-AE111-TB,High,4
+2022-08-04,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,High,8
+2022-04-26,Vehicle Manufacturers,United States,HD-B18C-VTEC,High,9
+2023-05-19,Restoration Specialists,UAE,NS-R32N1-OP,High,17
+2023-09-15,Private Enthusiasts,Germany,NS-R32N1-OP,High,6
+2023-02-16,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,High,32
+2022-09-18,Commercial Resellers,Germany,MT-EVO8-ECU,High,26
+2022-11-01,Vehicle Manufacturers,Australia ,HD-B18C-VTEC,High,35
+2023-04-02,Commercial Resellers,UAE,MZ-FD3S-OMP,High,25
+2023-08-12,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,10
+2022-09-25,Commercial Resellers,Australia ,HD-B18C-VTEC,High,14
+2023-10-15,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,High,8
+2023-05-09,Garages ,UAE, TY-AE111-TB,High,40
+2023-05-19,Private Enthusiasts,United States,MT-EVO8-ECU,High,17
+2023-11-19,Commercial Resellers,United States, SB-EJ207-AVCS ,High,22
+2022-10-24,Garages ,United States,HD-B18C-VTEC,None,22
+2022-11-20,Garages ,Australia ,HD-B18C-VTEC,Low,19
+2023-11-07,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,20
+2022-12-02,Commercial Resellers,Germany, TY-AE111-TB,Low,5
+2022-10-06,Commercial Resellers,Australia ,NS-R32N1-OP,Low,3
+2023-05-07,Commercial Resellers,Germany,NS-R32N1-OP,Low,19
+2022-10-30,Restoration Specialists,United States,MZ-FD3S-OMP,Low,9
+2023-03-24,Garages ,UAE,HD-B18C-VTEC,Low,23
+2023-07-25,Commercial Resellers,United States,MT-EVO8-ECU,Low,18
+2022-05-17,Vehicle Manufacturers,Germany, SB-EJ207-AVCS ,Medium,11
+2022-11-05,Commercial Resellers,United States,HD-B18C-VTEC,Medium,18
+2023-04-24,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,21
+2022-11-04,Garages ,United Kingdom,HD-B18C-VTEC,Medium,21
+2022-03-12,Commercial Resellers,UAE, TY-AE111-TB,Medium,10
+2023-03-20,Private Enthusiasts,United Kingdom,MZ-FD3S-OMP,Medium,9
+2022-12-30,Vehicle Manufacturers,United States,NS-R32N1-OP,Medium,24
+2022-04-03,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,21
+2022-01-30,Commercial Resellers,Australia , TY-AE111-TB,Medium,14
+2022-02-22,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,6
+2022-05-28,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,20
+2023-12-26,Vehicle Manufacturers,Australia ,NS-R32N1-OP,Medium,8
+2023-11-21,Restoration Specialists,Germany,MT-EVO8-ECU,Medium,14
+2022-04-09,Commercial Resellers,United States, SB-EJ207-AVCS ,Medium,16
+2022-08-31,Vehicle Manufacturers,United Kingdom, SB-EJ207-AVCS ,Medium,3
+2023-08-17,Restoration Specialists,UAE,MT-EVO8-ECU,Medium,3
+2023-10-21,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,15
+2022-03-31,Private Enthusiasts,United States, TY-AE111-TB,High,19
+2022-03-13,Commercial Resellers,United Kingdom,NS-R32N1-OP,High,19
+2022-12-06,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,High,12
+2022-01-13,Garages ,Germany,HD-B18C-VTEC,High,4
+2022-03-01,Restoration Specialists,United Kingdom,MT-EVO8-ECU,High,18
+2022-10-05,Restoration Specialists,Australia ,MT-EVO8-ECU,High,20
+2023-03-10,Private Enthusiasts,Germany,MZ-FD3S-OMP,High,28
+2022-05-08,Commercial Resellers,UAE,NS-R32N1-OP,High,13
+2023-10-30,Private Enthusiasts,Australia , TY-AE111-TB,High,24
+2023-11-17,Commercial Resellers,United States,HD-B18C-VTEC,None,17
+2022-02-08,Restoration Specialists,Australia ,HD-B18C-VTEC,None,9
+2023-01-21,Commercial Resellers,United States, TY-AE111-TB,Low,21
+2023-10-21,Garages ,UAE,MT-EVO8-ECU,Low,3
+2023-03-07,Commercial Resellers,UAE,MZ-FD3S-OMP,Low,22
+2023-04-02,Private Enthusiasts,Germany, SB-EJ207-AVCS ,Low,17
+2022-10-20,Restoration Specialists,UAE,HD-B18C-VTEC,Low,18
+2023-03-24,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,Medium,10
+2023-12-13,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,13
+2022-09-05,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,23
+2022-05-23,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,3
+2022-12-31,Commercial Resellers,Germany,NS-R32N1-OP,Medium,11
+2023-11-05,Private Enthusiasts,United Kingdom, SB-EJ207-AVCS ,Medium,25
+2023-03-30,Vehicle Manufacturers,United States,HD-B18C-VTEC,Medium,14
+2023-09-03,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,28
+2023-01-02,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,22
+2022-12-21,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,4
+2023-05-05,Private Enthusiasts,UAE, SB-EJ207-AVCS ,Medium,19
+2023-11-07,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Medium,18
+2023-04-29,Garages ,United Kingdom,MT-EVO8-ECU,Medium,10
+2022-05-17,Commercial Resellers,UAE,NS-R32N1-OP,Medium,27
+2023-09-13,Private Enthusiasts,Australia , SB-EJ207-AVCS ,High,18
+2023-09-19,Garages ,United States,MZ-FD3S-OMP,High,16
+2023-04-11,Commercial Resellers,Germany,MZ-FD3S-OMP,High,27
+2023-09-09,Commercial Resellers,United States,NS-R32N1-OP,High,29
+2023-04-23,Garages ,Australia ,MT-EVO8-ECU,High,26
+2023-11-03,Vehicle Manufacturers,Germany, TY-AE111-TB,High,26
+2023-09-10,Restoration Specialists,United States,HD-B18C-VTEC,High,22
+2022-09-05,Commercial Resellers,UAE,HD-B18C-VTEC,High,19
+2022-11-30,Vehicle Manufacturers,United Kingdom, TY-AE111-TB,High,25
+2023-10-02,Garages ,Germany,MT-EVO8-ECU,High,19
+2023-02-26,Commercial Resellers,Australia ,HD-B18C-VTEC,High,20
+2023-07-07,Commercial Resellers,Germany,HD-B18C-VTEC,High,22
+2023-05-22,Vehicle Manufacturers,Australia , TY-AE111-TB,High,26
+2022-04-20,Private Enthusiasts,United States,NS-R32N1-OP,High,30
+2023-03-30,Private Enthusiasts,United States, SB-EJ207-AVCS ,None,4
+2022-12-07,Private Enthusiasts,United States, TY-AE111-TB,None,4
+2023-10-15,Restoration Specialists,United Kingdom,MZ-FD3S-OMP,Low,8
+2023-05-14,Vehicle Manufacturers,Germany,MZ-FD3S-OMP,Low,5
+2022-04-29,Private Enthusiasts,Australia , SB-EJ207-AVCS ,Low,7
+2023-05-15,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Low,8
+2023-03-06,Private Enthusiasts,Australia , TY-AE111-TB,Low,7
+2023-09-16,Vehicle Manufacturers,Germany,NS-R32N1-OP,Low,5
+2023-11-05,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,Low,2
+2022-10-04,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,8
+2023-04-02,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,22
+2022-01-11,Commercial Resellers,United Kingdom, TY-AE111-TB,Low,30
+2023-04-23,Private Enthusiasts,United Kingdom, TY-AE111-TB,Low,8
+2023-11-14,Private Enthusiasts,Germany, TY-AE111-TB,Low,22
+2022-03-27,Vehicle Manufacturers,United Kingdom,NS-R32N1-OP,Low,2
+2022-06-28,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Low,30
+2023-05-24,Garages ,United Kingdom,HD-B18C-VTEC,Low,20
+2022-04-23,Garages ,United Kingdom,NS-R32N1-OP,Low,20
+2023-05-05,Commercial Resellers,United States,MZ-FD3S-OMP,Low,29
+2023-04-17,Commercial Resellers,United States, SB-EJ207-AVCS ,Low,29
+2023-03-27,Garages ,Australia ,HD-B18C-VTEC,Low,7
+2022-05-01,Garages ,Germany,HD-B18C-VTEC,Low,15
+2022-10-28,Garages ,Germany,NS-R32N1-OP,Low,15
+2023-09-30,Garages ,Australia ,MT-EVO8-ECU,Low,7
+2023-03-22,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Medium,12
+2022-01-15,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,12
+2023-11-22,Commercial Resellers,United States,HD-B18C-VTEC,Medium,12
+2023-05-05,Commercial Resellers,United States,HD-B18C-VTEC,Medium,14
+2023-10-24,Private Enthusiasts,UAE,HD-B18C-VTEC,Medium,7
+2023-10-20,Private Enthusiasts,UAE, TY-AE111-TB,Medium,7
+2022-04-26,Commercial Resellers,United States,NS-R32N1-OP,Medium,14
+2022-03-15,Commercial Resellers,United States,MT-EVO8-ECU,Medium,12
+2023-05-27,Restoration Specialists,United States,MZ-FD3S-OMP,Medium,23
+2022-05-10,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,14
+2022-05-19,Restoration Specialists,United States,HD-B18C-VTEC,Medium,23
+2023-11-16,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,7
+2023-10-22,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,12
+2022-10-23,Commercial Resellers,UAE, TY-AE111-TB,Medium,21
+2023-05-23,Vehicle Manufacturers,UAE,NS-R32N1-OP,Medium,12
+2022-04-27,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,7
+2023-04-01,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,14
+2023-03-31,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,21
+2022-10-31,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,18
+2022-05-19,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,18
+2023-10-15,Restoration Specialists,Germany,MZ-FD3S-OMP,Medium,4
+2022-11-10,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,4
+2023-04-04,Restoration Specialists,Australia ,MZ-FD3S-OMP,High,4
+2023-03-22,Restoration Specialists,Australia ,HD-B18C-VTEC,High,4
+2023-04-24,Garages ,UAE,HD-B18C-VTEC,High,22
+2022-11-21,Vehicle Manufacturers,Australia , TY-AE111-TB,High,23
+2023-05-01,Vehicle Manufacturers,Australia ,NS-R32N1-OP,High,23
+2022-03-28,Garages ,UAE,NS-R32N1-OP,High,22
+2023-05-18,Restoration Specialists,UAE,MZ-FD3S-OMP,High,12
+2022-07-26,Restoration Specialists,UAE,HD-B18C-VTEC,High,12
+2023-03-12,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,High,30
+2022-03-21,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,30
+2022-09-24,Commercial Resellers,Germany, TY-AE111-TB,High,3
+2022-10-28,Commercial Resellers,Germany,MT-EVO8-ECU,High,3
+2022-05-04,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,17
+2022-12-13,Commercial Resellers,Germany,HD-B18C-VTEC,High,17
+2023-10-29,Commercial Resellers,Australia ,MZ-FD3S-OMP,High,30
+2023-10-15,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,30
+2023-03-20,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,17
+2023-05-19,Garages ,United States,HD-B18C-VTEC,High,17
+2022-04-10,Vehicle Manufacturers,United States, TY-AE111-TB,High,3
+2022-03-12,Vehicle Manufacturers,United States,NS-R32N1-OP,High,3
+2023-03-15,Garages ,United States,MT-EVO8-ECU,High,17
+2023-04-23,Commercial Resellers,Germany,MT-EVO8-ECU,High,17
+2022-05-23,Commercial Resellers,Australia ,HD-B18C-VTEC,High,3
+2022-05-10,Commercial Resellers,Australia ,NS-R32N1-OP,High,3
+2022-11-10,Garages ,UAE,HD-B18C-VTEC,None,6
+2022-03-17,Vehicle Manufacturers,Germany,HD-B18C-VTEC,None,8
+2022-11-15,Commercial Resellers,UAE,NS-R32N1-OP,None,15
+2023-09-19,Private Enthusiasts,Australia ,MZ-FD3S-OMP,Low,3
+2023-09-16,Vehicle Manufacturers,Australia , SB-EJ207-AVCS ,Low,25
+2023-03-20,Restoration Specialists,Australia ,MT-EVO8-ECU,Low,20
+2022-05-07,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Low,18
+2022-05-08,Commercial Resellers,Germany,HD-B18C-VTEC,Low,18
+2023-05-24,Commercial Resellers,Australia , TY-AE111-TB,Low,7
+2022-09-19,Commercial Resellers,United States, TY-AE111-TB,Low,27
+2023-04-29,Commercial Resellers,Australia ,NS-R32N1-OP,Low,4
+2022-09-05,Commercial Resellers,United States,HD-B18C-VTEC,Medium,24
+2022-10-01,Commercial Resellers,Germany, SB-EJ207-AVCS ,Medium,7
+2022-08-12,Commercial Resellers,Germany,MZ-FD3S-OMP,Medium,18
+2023-10-02,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,10
+2023-03-14,Restoration Specialists,United Kingdom,NS-R32N1-OP,Medium,22
+2022-12-28,Garages ,Australia ,HD-B18C-VTEC,Medium,29
+2023-12-20,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Medium,11
+2022-08-29,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,Medium,10
+2022-08-09,Vehicle Manufacturers,United States, SB-EJ207-AVCS ,Medium,13
+2023-05-11,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,24
+2023-11-09,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,Medium,3
+2023-10-14,Restoration Specialists,UAE,NS-R32N1-OP,Medium,22
+2023-11-29,Restoration Specialists,Germany,NS-R32N1-OP,High,10
+2022-11-13,Commercial Resellers,UAE, TY-AE111-TB,High,28
+2022-09-09,Garages ,Germany, TY-AE111-TB,High,7
+2022-05-01,Private Enthusiasts,Germany,MT-EVO8-ECU,High,10
+2022-09-27,Commercial Resellers,Australia ,HD-B18C-VTEC,High,4
+2023-06-29,Private Enthusiasts,United States,MZ-FD3S-OMP,High,24
+2023-03-08,Commercial Resellers,United States,NS-R32N1-OP,High,6
+2022-04-14,Restoration Specialists,United States,MT-EVO8-ECU,High,28
+2023-04-23,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,High,4
+2023-10-26,Garages ,United Kingdom, TY-AE111-TB,High,7
+2023-05-02,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,10
+2023-05-30,Garages ,United States,HD-B18C-VTEC,High,25
+2023-11-04,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,27
+2022-05-02,Commercial Resellers,Germany, TY-AE111-TB,Low,29
+2023-09-21,Commercial Resellers,Australia ,NS-R32N1-OP,Low,4
+2022-02-27,Commercial Resellers,Germany,NS-R32N1-OP,Low,11
+2023-09-06,Restoration Specialists,United States,MZ-FD3S-OMP,Low,14
+2022-02-10,Garages ,UAE,HD-B18C-VTEC,Low,12
+2022-03-14,Commercial Resellers,United States,MT-EVO8-ECU,Low,1
+2022-11-20,Vehicle Manufacturers,Germany, SB-EJ207-AVCS ,Medium,24
+2022-10-08,Commercial Resellers,United States,HD-B18C-VTEC,Medium,17
+2022-05-27,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,18
+2023-03-07,Garages ,United Kingdom,HD-B18C-VTEC,Medium,29
+2022-05-18,Commercial Resellers,UAE, TY-AE111-TB,Medium,5
+2023-06-21,Private Enthusiasts,United Kingdom,MZ-FD3S-OMP,Medium,27
+2023-04-18,Vehicle Manufacturers,United States,NS-R32N1-OP,Medium,23
+2022-05-29,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,0
+2023-11-18,Commercial Resellers,Australia , TY-AE111-TB,Medium,10
+2022-09-06,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,27
+2023-12-19,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,17
+2023-02-05,Vehicle Manufacturers,Australia ,NS-R32N1-OP,Medium,18
+2022-12-05,Restoration Specialists,Germany,MT-EVO8-ECU,Medium,19
+2022-08-04,Commercial Resellers,United States, SB-EJ207-AVCS ,Medium,19
+2023-09-09,Vehicle Manufacturers,United Kingdom, SB-EJ207-AVCS ,Medium,27
+2023-04-21,Restoration Specialists,UAE,MT-EVO8-ECU,Medium,28
+2023-09-25,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,17
+2022-05-15,Private Enthusiasts,United States, TY-AE111-TB,High,0
+2022-04-09,Commercial Resellers,United Kingdom,NS-R32N1-OP,High,20
+2022-04-12,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,High,0
+2023-10-18,Garages ,Germany,HD-B18C-VTEC,High,2
+2022-12-31,Restoration Specialists,United Kingdom,MT-EVO8-ECU,High,26
+2023-01-10,Restoration Specialists,Australia ,MT-EVO8-ECU,High,24
+2022-09-20,Private Enthusiasts,Germany,MZ-FD3S-OMP,High,29
+2022-05-12,Commercial Resellers,UAE,NS-R32N1-OP,High,8
+2023-03-18,Private Enthusiasts,Australia , TY-AE111-TB,High,5
+2022-09-06,Commercial Resellers,United States,HD-B18C-VTEC,None,24
+2023-04-26,Restoration Specialists,Australia ,HD-B18C-VTEC,None,12
+2022-05-19,Commercial Resellers,United States, TY-AE111-TB,Low,7
+2022-03-10,Garages ,UAE,MT-EVO8-ECU,Low,17
+2022-10-10,Commercial Resellers,UAE,MZ-FD3S-OMP,Low,9
+2022-03-18,Private Enthusiasts,Germany, SB-EJ207-AVCS ,Low,5
+2023-07-19,Restoration Specialists,UAE,HD-B18C-VTEC,Low,0
+2023-03-04,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,Medium,14
+2023-11-25,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,6
+2022-11-05,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,18
+2023-04-11,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,14
+2023-04-23,Commercial Resellers,Germany,NS-R32N1-OP,Medium,28
+2023-07-11,Private Enthusiasts,United Kingdom, SB-EJ207-AVCS ,Medium,20
+2023-05-30,Vehicle Manufacturers,United States,HD-B18C-VTEC,Medium,12
+2023-10-09,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,28
+2022-04-25,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,10
+2022-05-30,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,20
+2023-05-08,Private Enthusiasts,UAE, SB-EJ207-AVCS ,Medium,10
+2022-10-08,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Medium,13
+2023-10-25,Garages ,United Kingdom,MT-EVO8-ECU,Medium,16
+2023-05-06,Commercial Resellers,UAE,NS-R32N1-OP,Medium,28
+2022-09-25,Private Enthusiasts,Australia , SB-EJ207-AVCS ,High,11
+2022-04-02,Garages ,United States,MZ-FD3S-OMP,High,10
+2022-11-02,Commercial Resellers,Germany,MZ-FD3S-OMP,High,7
+2022-12-12,Commercial Resellers,United States,NS-R32N1-OP,High,26
+2022-05-23,Garages ,Australia ,MT-EVO8-ECU,High,17
+2023-06-27,Vehicle Manufacturers,Germany, TY-AE111-TB,High,3
+2023-03-17,Restoration Specialists,United States,HD-B18C-VTEC,High,30
+2022-03-29,Commercial Resellers,UAE,HD-B18C-VTEC,High,25
+2022-03-09,Vehicle Manufacturers,United Kingdom, TY-AE111-TB,High,3
+2022-04-12,Garages ,Germany,MT-EVO8-ECU,High,24
+2022-04-03,Commercial Resellers,Australia ,HD-B18C-VTEC,High,14
+2022-11-26,Commercial Resellers,Germany,HD-B18C-VTEC,High,19
+2022-10-01,Vehicle Manufacturers,Australia , TY-AE111-TB,High,5
+2023-04-29,Private Enthusiasts,United States,NS-R32N1-OP,High,7
+2023-06-24,Private Enthusiasts,United States, SB-EJ207-AVCS ,None,24
+2022-10-23,Private Enthusiasts,United States, TY-AE111-TB,None,30
+2023-05-23,Restoration Specialists,United Kingdom,MZ-FD3S-OMP,Low,24
+2022-11-05,Vehicle Manufacturers,Germany,MZ-FD3S-OMP,Low,10
+2023-10-23,Private Enthusiasts,Australia , SB-EJ207-AVCS ,Low,20
+2023-03-14,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Low,22
+2023-05-14,Private Enthusiasts,Australia , TY-AE111-TB,Low,17
+2022-02-08,Vehicle Manufacturers,Germany,NS-R32N1-OP,Low,3
+2022-01-03,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,Low,29
+2022-11-08,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,1
+2023-03-07,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,25
+2023-11-11,Commercial Resellers,United Kingdom, TY-AE111-TB,Low,11
+2022-09-25,Private Enthusiasts,United Kingdom, TY-AE111-TB,Low,5
+2022-03-16,Private Enthusiasts,Germany, TY-AE111-TB,Low,30
+2023-09-19,Vehicle Manufacturers,United Kingdom,NS-R32N1-OP,Low,12
+2022-09-16,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Low,25
+2022-11-23,Garages ,United Kingdom,HD-B18C-VTEC,Low,23
+2022-11-27,Garages ,United Kingdom,NS-R32N1-OP,Low,23
+2022-04-20,Commercial Resellers,United States,MZ-FD3S-OMP,Low,30
+2022-04-26,Commercial Resellers,United States, SB-EJ207-AVCS ,Low,19
+2022-04-23,Garages ,Australia ,HD-B18C-VTEC,Low,25
+2023-03-13,Garages ,Germany,HD-B18C-VTEC,Low,24
+2023-09-11,Garages ,Germany,NS-R32N1-OP,Low,24
+2022-04-19,Garages ,Australia ,MT-EVO8-ECU,Low,1
+2022-04-12,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Medium,2
+2022-01-29,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,14
+2022-05-07,Commercial Resellers,United States,HD-B18C-VTEC,Medium,8
+2022-10-14,Commercial Resellers,United States,HD-B18C-VTEC,Medium,24
+2023-10-17,Private Enthusiasts,UAE,HD-B18C-VTEC,Medium,25
+2023-03-04,Private Enthusiasts,UAE, TY-AE111-TB,Medium,17
+2023-04-27,Commercial Resellers,United States,NS-R32N1-OP,Medium,21
+2022-10-18,Commercial Resellers,United States,MT-EVO8-ECU,Medium,16
+2023-05-23,Restoration Specialists,United States,MZ-FD3S-OMP,Medium,24
+2023-05-16,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,18
+2023-04-26,Restoration Specialists,United States,HD-B18C-VTEC,Medium,22
+2022-03-16,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,29
+2022-03-04,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,19
+2023-09-24,Commercial Resellers,UAE, TY-AE111-TB,Medium,16
+2023-12-28,Vehicle Manufacturers,UAE,NS-R32N1-OP,Medium,21
+2022-10-13,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,10
+2023-02-06,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,20
+2023-07-16,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,30
+2023-03-05,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,11
+2022-05-20,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,27
+2022-10-07,Restoration Specialists,Germany,MZ-FD3S-OMP,Medium,5
+2023-04-06,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,7
+2023-05-15,Restoration Specialists,Australia ,MZ-FD3S-OMP,High,20
+2023-03-10,Restoration Specialists,Australia ,HD-B18C-VTEC,High,18
+2023-05-27,Garages ,UAE,HD-B18C-VTEC,High,21
+2022-04-12,Vehicle Manufacturers,Australia , TY-AE111-TB,High,11
+2023-10-26,Vehicle Manufacturers,Australia ,NS-R32N1-OP,High,23
+2022-04-28,Garages ,UAE,NS-R32N1-OP,High,9
+2023-03-30,Restoration Specialists,UAE,MZ-FD3S-OMP,High,8
+2023-10-05,Restoration Specialists,UAE,HD-B18C-VTEC,High,6
+2023-05-20,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,High,9
+2023-04-22,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,8
+2022-04-20,Commercial Resellers,Germany, TY-AE111-TB,High,21
+2022-10-21,Commercial Resellers,Germany,MT-EVO8-ECU,High,5
+2022-01-19,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,26
+2023-05-27,Commercial Resellers,Germany,HD-B18C-VTEC,High,22
+2022-05-19,Commercial Resellers,Australia ,MZ-FD3S-OMP,High,23
+2023-03-08,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,29
+2023-09-24,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,4
+2022-03-26,Garages ,United States,HD-B18C-VTEC,High,20
+2023-04-10,Vehicle Manufacturers,United States, TY-AE111-TB,High,4
+2022-11-13,Vehicle Manufacturers,United States,NS-R32N1-OP,High,15
+2023-05-03,Garages ,United States,MT-EVO8-ECU,High,16
+2022-03-22,Commercial Resellers,Germany,MT-EVO8-ECU,High,1
+2023-11-07,Commercial Resellers,Australia ,HD-B18C-VTEC,High,6
+2022-11-25,Commercial Resellers,Australia ,NS-R32N1-OP,High,30
+2022-11-01,Garages ,UAE,HD-B18C-VTEC,None,9
+2022-09-06,Vehicle Manufacturers,Germany,HD-B18C-VTEC,None,1
+2022-10-11,Commercial Resellers,UAE,NS-R32N1-OP,None,10
+2023-07-15,Private Enthusiasts,Australia ,MZ-FD3S-OMP,Low,10
+2022-10-19,Vehicle Manufacturers,Australia , SB-EJ207-AVCS ,Low,2
+2023-03-05,Restoration Specialists,Australia ,MT-EVO8-ECU,Low,15
+2023-09-16,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Low,28
+2022-08-01,Commercial Resellers,Germany,HD-B18C-VTEC,Low,7
+2023-11-06,Commercial Resellers,Australia , TY-AE111-TB,Low,17
+2023-03-07,Commercial Resellers,United States, TY-AE111-TB,Low,9
+2022-10-20,Commercial Resellers,Australia ,NS-R32N1-OP,Low,11
+2023-10-06,Commercial Resellers,United States,HD-B18C-VTEC,Medium,15
+2022-04-10,Commercial Resellers,Germany, SB-EJ207-AVCS ,Medium,0
+2023-11-25,Commercial Resellers,Germany,MZ-FD3S-OMP,Medium,3
+2022-05-23,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,20
+2022-05-09,Restoration Specialists,United Kingdom,NS-R32N1-OP,Medium,10
+2022-03-15,Garages ,Australia ,HD-B18C-VTEC,Medium,20
+2023-05-05,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Medium,18
+2023-10-06,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,Medium,21
+2023-01-04,Vehicle Manufacturers,United States, SB-EJ207-AVCS ,Medium,7
+2022-07-18,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,13
+2023-04-03,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,Medium,8
+2023-02-20,Restoration Specialists,UAE,NS-R32N1-OP,Medium,29
+2022-03-19,Restoration Specialists,Germany,NS-R32N1-OP,High,11
+2023-10-19,Commercial Resellers,UAE, TY-AE111-TB,High,17
+2022-09-20,Garages ,Germany, TY-AE111-TB,High,8
+2023-09-08,Private Enthusiasts,Germany,MT-EVO8-ECU,High,22
+2022-05-14,Commercial Resellers,Australia ,HD-B18C-VTEC,High,4
+2022-04-29,Private Enthusiasts,United States,MZ-FD3S-OMP,High,2
+2022-03-07,Commercial Resellers,United States,NS-R32N1-OP,High,1
+2023-05-11,Restoration Specialists,United States,MT-EVO8-ECU,High,4
+2022-08-18,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,High,11
+2023-10-02,Garages ,United Kingdom, TY-AE111-TB,High,28
+2022-03-31,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,7
+2022-11-12,Garages ,United States,HD-B18C-VTEC,High,13
+2023-10-19,Commercial Resellers,Australia ,HD-B18C-VTEC,Low,1
+2023-03-22,Commercial Resellers,Germany, TY-AE111-TB,Low,28
+2023-06-27,Commercial Resellers,Australia ,NS-R32N1-OP,Low,0
+2022-09-07,Commercial Resellers,Germany,NS-R32N1-OP,Low,7
+2022-09-01,Restoration Specialists,United States,MZ-FD3S-OMP,Low,3
+2023-05-16,Garages ,UAE,HD-B18C-VTEC,Low,9
+2022-04-24,Commercial Resellers,United States,MT-EVO8-ECU,Low,10
+2022-03-04,Vehicle Manufacturers,Germany, SB-EJ207-AVCS ,Medium,7
+2023-05-09,Commercial Resellers,United States,HD-B18C-VTEC,Medium,11
+2022-10-30,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,24
+2023-05-21,Garages ,United Kingdom,HD-B18C-VTEC,Medium,24
+2022-08-21,Commercial Resellers,UAE, TY-AE111-TB,Medium,13
+2022-05-03,Private Enthusiasts,United Kingdom,MZ-FD3S-OMP,Medium,24
+2022-11-05,Vehicle Manufacturers,United States,NS-R32N1-OP,Medium,13
+2023-12-09,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,1
+2023-09-04,Commercial Resellers,Australia , TY-AE111-TB,Medium,22
+2023-05-09,Commercial Resellers,United Kingdom, TY-AE111-TB,Medium,8
+2022-11-24,Commercial Resellers,Germany,HD-B18C-VTEC,Medium,26
+2023-04-29,Vehicle Manufacturers,Australia ,NS-R32N1-OP,Medium,7
+2022-09-19,Restoration Specialists,Germany,MT-EVO8-ECU,Medium,12
+2022-06-07,Commercial Resellers,United States, SB-EJ207-AVCS ,Medium,8
+2022-10-24,Vehicle Manufacturers,United Kingdom, SB-EJ207-AVCS ,Medium,9
+2023-03-09,Restoration Specialists,UAE,MT-EVO8-ECU,Medium,1
+2022-09-20,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,21
+2023-02-18,Private Enthusiasts,United States, TY-AE111-TB,High,1
+2023-10-03,Commercial Resellers,United Kingdom,NS-R32N1-OP,High,18
+2023-10-13,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,High,20
+2022-05-17,Garages ,Germany,HD-B18C-VTEC,High,9
+2022-03-23,Restoration Specialists,United Kingdom,MT-EVO8-ECU,High,28
+2023-09-12,Restoration Specialists,Australia ,MT-EVO8-ECU,High,14
+2023-09-15,Private Enthusiasts,Germany,MZ-FD3S-OMP,High,10
+2023-09-17,Commercial Resellers,UAE,NS-R32N1-OP,High,19
+2022-04-04,Private Enthusiasts,Australia , TY-AE111-TB,High,28
+2022-11-01,Commercial Resellers,United States,HD-B18C-VTEC,None,24
+2023-10-11,Restoration Specialists,Australia ,HD-B18C-VTEC,None,2
+2022-09-16,Commercial Resellers,United States, TY-AE111-TB,Low,3
+2022-04-10,Garages ,UAE,MT-EVO8-ECU,Low,27
+2023-01-02,Commercial Resellers,UAE,MZ-FD3S-OMP,Low,7
+2023-09-29,Private Enthusiasts,Germany, SB-EJ207-AVCS ,Low,14
+2022-05-30,Restoration Specialists,UAE,HD-B18C-VTEC,Low,16
+2022-04-22,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,Medium,11
+2022-11-15,Commercial Resellers,Australia ,NS-R32N1-OP,Medium,15
+2022-09-07,Commercial Resellers,United Kingdom,NS-R32N1-OP,Medium,26
+2022-07-17,Commercial Resellers,Australia ,MZ-FD3S-OMP,Medium,16
+2023-04-03,Commercial Resellers,Germany,NS-R32N1-OP,Medium,14
+2023-07-08,Private Enthusiasts,United Kingdom, SB-EJ207-AVCS ,Medium,3
+2022-10-16,Vehicle Manufacturers,United States,HD-B18C-VTEC,Medium,16
+2022-11-15,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,11
+2023-10-09,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,1
+2023-09-02,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,10
+2022-11-04,Private Enthusiasts,UAE, SB-EJ207-AVCS ,Medium,7
+2022-11-15,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Medium,24
+2023-06-06,Garages ,United Kingdom,MT-EVO8-ECU,Medium,5
+2022-09-17,Commercial Resellers,UAE,NS-R32N1-OP,Medium,23
+2022-11-13,Private Enthusiasts,Australia , SB-EJ207-AVCS ,High,26
+2022-04-11,Garages ,United States,MZ-FD3S-OMP,High,13
+2022-05-04,Commercial Resellers,Germany,MZ-FD3S-OMP,High,25
+2022-08-18,Commercial Resellers,United States,NS-R32N1-OP,High,9
+2023-10-22,Garages ,Australia ,MT-EVO8-ECU,High,22
+2022-09-25,Vehicle Manufacturers,Germany, TY-AE111-TB,High,19
+2022-09-15,Restoration Specialists,United States,HD-B18C-VTEC,High,9
+2022-04-12,Commercial Resellers,UAE,HD-B18C-VTEC,High,28
+2022-09-21,Vehicle Manufacturers,United Kingdom, TY-AE111-TB,High,4
+2023-11-26,Garages ,Germany,MT-EVO8-ECU,High,24
+2022-11-26,Commercial Resellers,Australia ,HD-B18C-VTEC,High,29
+2023-11-19,Commercial Resellers,Germany,HD-B18C-VTEC,High,18
+2022-03-20,Vehicle Manufacturers,Australia , TY-AE111-TB,High,24
+2023-04-21,Private Enthusiasts,United States,NS-R32N1-OP,High,13
+2023-04-25,Private Enthusiasts,United States, SB-EJ207-AVCS ,None,5
+2023-11-13,Private Enthusiasts,United States, TY-AE111-TB,None,17
+2022-05-18,Restoration Specialists,United Kingdom,MZ-FD3S-OMP,Low,26
+2023-07-02,Vehicle Manufacturers,Germany,MZ-FD3S-OMP,Low,3
+2022-04-17,Private Enthusiasts,Australia , SB-EJ207-AVCS ,Low,23
+2022-04-19,Restoration Specialists,United Kingdom,HD-B18C-VTEC,Low,10
+2023-10-22,Private Enthusiasts,Australia , TY-AE111-TB,Low,28
+2022-11-15,Vehicle Manufacturers,Germany,NS-R32N1-OP,Low,4
+2022-04-25,Vehicle Manufacturers,United Kingdom,MZ-FD3S-OMP,Low,8
+2023-07-29,Private Enthusiasts,United Kingdom,HD-B18C-VTEC,Low,25
+2022-05-07,Private Enthusiasts,Germany,HD-B18C-VTEC,Low,25
+2023-10-26,Commercial Resellers,United Kingdom, TY-AE111-TB,Low,16
+2022-11-29,Private Enthusiasts,United Kingdom, TY-AE111-TB,Low,10
+2023-05-11,Private Enthusiasts,Germany, TY-AE111-TB,Low,19
+2023-05-01,Vehicle Manufacturers,United Kingdom,NS-R32N1-OP,Low,20
+2022-09-20,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Low,16
+2022-03-11,Garages ,United Kingdom,HD-B18C-VTEC,Low,21
+2022-03-06,Garages ,United Kingdom,NS-R32N1-OP,Low,10
+2023-04-08,Commercial Resellers,United States,MZ-FD3S-OMP,Low,17
+2023-11-29,Commercial Resellers,United States, SB-EJ207-AVCS ,Low,17
+2023-03-29,Garages ,Australia ,HD-B18C-VTEC,Low,29
+2022-08-25,Garages ,Germany,HD-B18C-VTEC,Low,16
+2022-08-03,Garages ,Germany,NS-R32N1-OP,Low,23
+2023-09-04,Garages ,Australia ,MT-EVO8-ECU,Low,26
+2022-03-19,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Medium,5
+2022-02-17,Commercial Resellers,United Kingdom,MT-EVO8-ECU,Medium,23
+2023-01-23,Commercial Resellers,United States,HD-B18C-VTEC,Medium,11
+2022-09-27,Commercial Resellers,United States,HD-B18C-VTEC,Medium,10
+2023-11-29,Private Enthusiasts,UAE,HD-B18C-VTEC,Medium,7
+2022-05-25,Private Enthusiasts,UAE, TY-AE111-TB,Medium,3
+2023-06-18,Commercial Resellers,United States,NS-R32N1-OP,Medium,12
+2023-11-27,Commercial Resellers,United States,MT-EVO8-ECU,Medium,20
+2022-04-23,Restoration Specialists,United States,MZ-FD3S-OMP,Medium,9
+2023-04-11,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,5
+2022-09-06,Restoration Specialists,United States,HD-B18C-VTEC,Medium,9
+2022-11-20,Commercial Resellers,Australia ,HD-B18C-VTEC,Medium,6
+2023-03-06,Vehicle Manufacturers,UAE, TY-AE111-TB,Medium,3
+2022-03-17,Commercial Resellers,UAE, TY-AE111-TB,Medium,27
+2023-09-10,Vehicle Manufacturers,UAE,NS-R32N1-OP,Medium,5
+2023-09-01,Commercial Resellers,Australia ,MT-EVO8-ECU,Medium,27
+2022-04-12,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,20
+2023-04-06,Commercial Resellers,UAE,MT-EVO8-ECU,Medium,15
+2022-05-23,Commercial Resellers,UAE, SB-EJ207-AVCS ,Medium,0
+2022-02-25,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,21
+2023-04-20,Restoration Specialists,Germany,MZ-FD3S-OMP,Medium,18
+2023-06-04,Restoration Specialists,Germany,HD-B18C-VTEC,Medium,16
+2022-08-07,Restoration Specialists,Australia ,MZ-FD3S-OMP,High,8
+2022-07-06,Restoration Specialists,Australia ,HD-B18C-VTEC,High,15
+2023-11-08,Garages ,UAE,HD-B18C-VTEC,High,2
+2022-09-10,Vehicle Manufacturers,Australia , TY-AE111-TB,High,4
+2022-10-03,Vehicle Manufacturers,Australia ,NS-R32N1-OP,High,26
+2023-09-25,Garages ,UAE,NS-R32N1-OP,High,16
+2023-09-04,Restoration Specialists,UAE,MZ-FD3S-OMP,High,23
+2023-02-24,Restoration Specialists,UAE,HD-B18C-VTEC,High,12
+2022-09-14,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,High,18
+2023-09-25,Commercial Resellers,United Kingdom,HD-B18C-VTEC,High,27
+2023-11-10,Commercial Resellers,Germany, TY-AE111-TB,High,17
+2022-01-22,Commercial Resellers,Germany,MT-EVO8-ECU,High,10
+2023-12-25,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,29
+2022-04-27,Commercial Resellers,Germany,HD-B18C-VTEC,High,7
+2023-04-13,Commercial Resellers,Australia ,MZ-FD3S-OMP,High,12
+2022-07-29,Commercial Resellers,Australia , SB-EJ207-AVCS ,High,23
+2023-08-07,Commercial Resellers,Germany, SB-EJ207-AVCS ,High,26
+2023-09-05,Garages ,United States,HD-B18C-VTEC,High,30
+2022-10-19,Vehicle Manufacturers,United States, TY-AE111-TB,High,20
+2022-11-10,Vehicle Manufacturers,United States,NS-R32N1-OP,High,20
+2022-03-10,Garages ,United States,MT-EVO8-ECU,High,16
+2023-11-17,Commercial Resellers,Germany,MT-EVO8-ECU,High,4
+2023-04-01,Commercial Resellers,Australia ,HD-B18C-VTEC,High,17
+2022-04-22,Commercial Resellers,Australia ,NS-R32N1-OP,High,29
+2022-05-04,Garages ,UAE,HD-B18C-VTEC,None,27
+2022-03-09,Vehicle Manufacturers,Germany,HD-B18C-VTEC,None,24
+2022-09-26,Commercial Resellers,UAE,NS-R32N1-OP,None,20
+2023-05-18,Private Enthusiasts,Australia ,MZ-FD3S-OMP,Low,2
+2023-05-17,Vehicle Manufacturers,Australia , SB-EJ207-AVCS ,Low,23
+2022-04-27,Restoration Specialists,Australia ,MT-EVO8-ECU,Low,28
+2023-09-16,Commercial Resellers,United Kingdom, SB-EJ207-AVCS ,Low,16
+2022-03-17,Commercial Resellers,Germany,HD-B18C-VTEC,Low,26
+2022-10-23,Commercial Resellers,Australia , TY-AE111-TB,Low,17
+2022-05-15,Commercial Resellers,United States, TY-AE111-TB,Low,1
+2022-09-23,Commercial Resellers,Australia ,NS-R32N1-OP,Low,25
+2023-10-24,Commercial Resellers,United States,HD-B18C-VTEC,Medium,25
+2023-04-17,Commercial Resellers,Germany, SB-EJ207-AVCS ,Medium,5
+2023-10-12,Commercial Resellers,Germany,MZ-FD3S-OMP,Medium,8
+2023-09-28,Commercial Resellers,UAE,HD-B18C-VTEC,Medium,18
+2023-05-22,Restoration Specialists,United Kingdom,NS-R32N1-OP,Medium,7
+2023-09-28,Garages ,Australia ,HD-B18C-VTEC,Medium,28
+2023-05-07,Vehicle Manufacturers,United Kingdom,HD-B18C-VTEC,Medium,14
+2023-08-28,Private Enthusiasts,United Kingdom,MT-EVO8-ECU,Medium,25
+2022-05-28,Vehicle Manufacturers,United States, SB-EJ207-AVCS ,Medium,22
+2022-03-26,Commercial Resellers,United Kingdom,HD-B18C-VTEC,Medium,21
+2023-12-26,Vehicle Manufacturers,UAE, SB-EJ207-AVCS ,Medium,17
+2023-03-13,Restoration Specialists,UAE,NS-R32N1-OP,Medium,8
+2022-10-30,Restoration Specialists,Germany,NS-R32N1-OP,High,26
+2022-09-21,Commercial Resellers,UAE, TY-AE111-TB,High,8
+2022-05-21,Garages ,Germany, TY-AE111-TB,High,27
+2022-03-23,Private Enthusiasts,Germany,MT-EVO8-ECU,High,20
+2022-05-10,Commercial Resellers,Australia ,HD-B18C-VTEC,High,9
+2023-09-17,Private Enthusiasts,United States,MZ-FD3S-OMP,High,25
+2023-10-07,Commercial Resellers,United States,NS-R32N1-OP,High,28
+2023-11-20,Restoration Specialists,United States,MT-EVO8-ECU,High,9
+2022-05-05,Commercial Resellers,United Kingdom,MZ-FD3S-OMP,High,8
+2022-09-08,Garages ,United Kingdom, TY-AE111-TB,High,17
+2023-09-15,Private Enthusiasts,UAE,MZ-FD3S-OMP,High,5
+2023-11-30,Garages ,United States,HD-B18C-VTEC,High,19
