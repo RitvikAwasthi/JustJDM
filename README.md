@@ -2,7 +2,7 @@
 
 ### About JustJDM  
 
-**JustJDM** is a pseudonym for a real Japan-based JDM car parts exporter. The company specializes in a wide range of components, from small parts to complete engines and major vehicle systems. As an automobile enthusiast, I obtained revenue data from a founding partner—also a fellow enthusiast—under the condition of maintaining anonymity and limiting the use of their data.
+**JustJDM** is a pseudonym for a real Japan-based JDM car parts exporter. The company specializes in a wide range of components, from small parts to complete engines and major vehicle systems. As an automobile enthusiast, I obtained revenue data from a founding partner (also a fellow enthusiast) under the condition of maintaining anonymity and limiting the use of their data.
 
 <sub>**Note:** For details on the restricted data usage, please see the **Limitations** section below.</sub> 
 
@@ -30,22 +30,22 @@ JustJDM's export sales analysis of 1.037K records ranging from 2022-2023 reveals
 
 ## Summary of Insights  
 
-### Revenue Breakdown:  
-- Australia imported the highest volume of products, totaling **$613K**.
-- UAE was the second highest at **$609K** and the exports were more consistent throughout the year. 
+### **Revenue Breakdown:**  
+- Australia imported the highest volume of products, totaling **$613K**.  
+- The UAE ranked second at **$609K**, with exports remaining **consistent throughout the year**.  
 - The United States ranked third at **$606K**, with nearly **one-third** of its export revenue coming from the **RB26DETT N1 Oil Pump**.  
-- Around **42%** of buyer were commercial resellers accounting for nearly **$1.3M** in exports.
-- **34%** of every all sales have a high dicount. 
+- Around **42%** of buyers were commercial resellers, accounting for nearly **$1.3M** in exports.  
+- **34%** of all sales were made at **high discount rates**.  
 
-### Insights by Parts:  
+### **Insights by Parts:**  
 - Toyota's **4A-GE "Silver Top" Throttle Body** saw the biggest revenue decline (**21%**), primarily due to a **45%** drop in exports to Germany.  
 - Honda's **B-series VTEC Solenoid (OEM)** experienced an **11%** decline in sales, driven by a **38%** reduction in revenue from the UAE.  
-- Subaru's **EJ207 AVCS Cam Gear** saw an approximate **30%** revenue increase across all countries.
+- Subaru's **EJ207 AVCS Cam Gear** saw an approximate **30%** revenue increase across all countries.  
 
-### Seasonal Trends:  
-- **Spring and fall** see significantly higher exports, indicating a cyclical demand pattern.  
-- There was a notable export spike in **March of both years**, likely correlating with the start of summer. This suggests that consumers upgrade their vehicles for recreational use during warmer months. **(Interestingly, the UAE showed minimal seasonal variation, which aligns with its stable climate.)**  
-- The **fall and early winter export increase** could be worth further exploration, potentially correlating with the holiday season when consumers have more free time.
+### **Seasonal Trends:**  
+- **Spring and fall** see significantly higher exports, indicating a **cyclical demand pattern**.  
+- A notable export spike occurred in **March of both years**, likely correlating with the start of summer. This suggests that consumers upgrade their vehicles for **recreational use during warmer months**. **(Interestingly, the UAE showed minimal seasonal variation, likely due to its stable climate.)**  
+- The **increase in exports during fall and early winter** may warrant further exploration, potentially correlating with the holiday season when consumers have more free time.
 
 ## Recommendations: 
 
@@ -95,7 +95,7 @@ JustJDM's export sales analysis of 1.037K records ranging from 2022-2023 reveals
 
 * **Limited product sample:** The dataset includes only 5 engine-specific products, which may not accurately reflect trends across the broader JDM export market. This narrow scope introduces omitted variable bias, potentially leading to false positives or negatives in market assessments. Expanding the dataset to include suspension, drivetrain, and body components would provide a more comprehensive analysis.
 
-* **Limitations around time period:** The dataset covers only 2022 and 2023, a period impacted by a war [4], which caused a 56% spike in fuel prices. Given that the analyzed parts are primarily engine components, this may lead to false negatives in long-term demand trends. Additionally, seasonal sales spikes observed during this period may be false positives, influenced by temporary market disruptions rather than consistent patterns. Expanding the timeframe would improve trend reliability.
+* **Limitations around time period:** The dataset covers only 2022 and 2023, a period impacted by a war, which caused a 56% spike in fuel prices[4]. Given that the analyzed parts are primarily engine components, this may lead to false negatives in long-term demand trends. Additionally, seasonal sales spikes observed during this period may be false positives, influenced by temporary market disruptions rather than consistent patterns. Expanding the timeframe would improve trend reliability.
 
 ## Parts description 
 
